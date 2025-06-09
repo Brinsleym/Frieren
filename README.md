@@ -5,11 +5,11 @@ In order to import the project, you must be running Cubase Pro 14 or later
 ### ⚠️ Important Disclaimer
 > This project is a non-commercial, fan-made endeavor and is not affiliated with or endorsed by the creators, producers, or distributors of Sousou no Frieren. The music I've composed is intended solely for creative exploration and does not infringe upon the original series' copyright or intellectual property. I do not claim ownership of Frieren or its content, and this project is unlicensed by any official entity. All rights to the original series and its soundtrack belong to their respective copyright holders.
 
-[Listen on Soundtrack]()
+[Listen on Soundtrack](https://soundcloud.com/brinsleymorrison/sets/re-scoring-sousou-no-frieren)
 
 [Read the blog post on my website](https://brinsleymorrison.com/compositions/re-scoring-sousou-no-frieren/)
 
-## Instrument libraries used:
+#### Instrument Samplers used:
 Steinberg: HALion,  
 Spitfire Audio: LABS,  
 decent | samples: DecentSampler,  
