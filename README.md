@@ -14,8 +14,8 @@ To download, [Download as ZIP](https://github.com/Brinsleym/Frieren/archive/refs
 Steinberg: HALion,  
 Spitfire Audio: LABS,  
 decent | samples: DecentSampler,  
-Modartt: Pianoteq 6.  
-Native Instruments: Kontakt
+Modartt: Pianoteq 6. ,
+Native Instruments: Kontakt.
 
 #### Kontakt Libraries used:
 Cinematic Studio Series:  
