@@ -6,7 +6,7 @@ To download, [Download as ZIP](https://github.com/Brinsleym/Frieren/archive/refs
 ### ⚠️ Important Disclaimer
 > This project is a non-commercial, fan-made endeavor and is not affiliated with or endorsed by the creators, producers, or distributors of Sousou no Frieren. The music I've composed is intended solely for creative exploration and does not infringe upon the original series' copyright or intellectual property. I do not claim ownership of Frieren or its content, and this project is unlicensed by any official entity. All rights to the original series and its soundtrack belong to their respective copyright holders.
 
-[Listen on Soundtrack](https://soundcloud.com/brinsleymorrison/sets/re-scoring-sousou-no-frieren)
+[Listen on Soundcloud](https://soundcloud.com/brinsleymorrison/sets/re-scoring-sousou-no-frieren)
 
 [Read the blog post on my website](https://brinsleymorrison.com/compositions/re-scoring-sousou-no-frieren/)
 
